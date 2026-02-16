@@ -1,0 +1,18 @@
+h1 {
+      text-align: center;
+      color: blue; }
+
+p {
+        font-size: 18px;
+        color: green;
+}
+
+li {
+        font-size: 16px;
+        color: purple;
+}   
+
+button {
+        background-color: black;
+        color: white
+}       
